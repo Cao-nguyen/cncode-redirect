@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://cao-nguyen.github.io/cncode/$1",
+      "permanent": true
+    }
+  ]
+}
